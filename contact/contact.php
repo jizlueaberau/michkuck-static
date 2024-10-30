@@ -57,7 +57,7 @@ try
         }
     }
     $emailTextHtml .= "</table>";
-    $emailTextHtml .= "<p>Have a great day!<br><br>Sincerely,<br><br>Nuno Theme</p>";
+    $emailTextHtml .= "<p>Have a great day!<br><br>Sincerely,<br><br>Nuno Theme<br>send from Hostpoint</p>";
     
 
 
